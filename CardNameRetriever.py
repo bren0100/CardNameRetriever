@@ -1,5 +1,5 @@
 import json, os, fnmatch, re
-#json for obvious reasons
+#json to be able to interact with and format the data
 #os to be able to find the file within the designated file path
 #fnmatch dependency has been removed. this should be removed.
 #re text search for card names is done using regular expression
